@@ -1,5 +1,5 @@
 {
-"SNMessage":10,
+"SNMessage":11,
 "SNNews":
-"‌Facebook နှင့် Tiktok တို့အတွက် မြန်ဆန်သော Bypass Server များကိုထည့်သွင်းထားပြီး\nTelegram & VK User တို့အတွက် Social Booster အသစ်ကို ထပ်မံထည့်သွင်းပေးထားပါသည်။"
+"‌SIM CARD အသုံးပြုပါက ALL SIM ကိုရွေးပါ။\nWIFI အသုံးပြုပါက WIFI ကိုရွေးပါ"
 }
